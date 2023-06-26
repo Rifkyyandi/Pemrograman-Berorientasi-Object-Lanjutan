@@ -52,9 +52,17 @@
 <img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/ad293c0f-19f8-40b4-9991-9bfb7caf359a" width=50% height=50%>
 
 #### 8. Testing By Postman
+##### A. Testing GET - Memunculkan Semua Data Mahasiswa 
+<img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/284e615e-3a04-49a6-a2c8-22ca3b28273a" width=50% height=50%>
 
+##### B. Testing GET - Memunculkan Semua Data Mahasiswa By NIM
+<img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/ddbe68f4-84f9-40dd-927c-b4b94f6fa92c" width=50% height=50%>
 
+##### C. Testing POST - Update Data Mahasiswa
+<img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/e58bb7a9-4cfd-47be-989b-332fec826802" width=50% height=50%>
 
+##### D. Testing Put - Menghapus Isi Tabel Mahasiswa By Nim
+<img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/de50fd4a-d431-4bcd-bd94-8ab79846eeeb" width=50% height=50%>
 
-
-
+##### E. Testing Del - Menghapus Tabel Mahasiswa By Nim
+<img src="https://github.com/Rifkyyandi/Pemrograman-Berorientasi-Object-Lanjutan/assets/122662185/a7f72384-d557-46ea-b158-d25f5461b028" width=50% height=50%>
