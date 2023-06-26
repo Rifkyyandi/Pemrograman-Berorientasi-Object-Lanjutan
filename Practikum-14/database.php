@@ -3,9 +3,9 @@ class MySQLDatabase
 {
     private $conn;
     private $host = 'localhost';
-    private $user = '';
-    private $password = '';
-    private $database = '';
+    private $user = 'f0833054_RiP_Me';
+    private $password = 'Hammusiteru';
+    private $database = 'f0833054_RiP_Me';
 
     public function __construct()
     {
